@@ -1,2 +1,2 @@
-# Site-BS
-Site para processo seletivo da brainstorm
+# Brainstorm Frontend
+Site para processo seletivo da Brainstorm Engenharia Junior
