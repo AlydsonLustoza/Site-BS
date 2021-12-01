@@ -1,4 +1,7 @@
 body {
+  div cabeça{
+    background-image: url("bg-header-desktop.svg");
+  }
     background-color: hsl(180, 52%, 96%);
   }
   h1 {
