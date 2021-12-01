@@ -1,5 +1,5 @@
 body {
-  div cabeça{
+  div.cabeça{
     background-image: url("bg-header-desktop.svg");
   }
     background-color: hsl(180, 52%, 96%);
