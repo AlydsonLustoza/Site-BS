@@ -7,6 +7,6 @@ body {
   p {
     color: red;
   }
-  div.cabeça{
+  div.topo{
     background-image: url("bg-header-desktop.svg");
   }
