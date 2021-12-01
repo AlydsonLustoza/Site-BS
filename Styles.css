@@ -1,12 +1,12 @@
 body {
   div.cabeça{
-    background-image: url("bg-header-desktop.svg");
+    background-image: ;
   }
-    background-color: hsl(180, 52%, 96%);
-  }
+    background-color: hsl(180, 29%, 50%);
   h1 {
     color: blue;
   }
   p {
     color: red;
   }
+}
