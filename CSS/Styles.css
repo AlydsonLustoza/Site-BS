@@ -5,45 +5,52 @@
 
 body {
   background-color: hsl(180, 52%, 96%);
-  font-family: Spartan;
-  font-family: Spartan;
+  font-family: 'Spartan', sans-serif;
 }
 h3 {
   color: hsl(180, 29%, 50%); 
 }
+p{
+  color: hsl(180, 52%, 96%);
+  background-color: hsl(180, 29%, 50%);
+  padding-left: 10px;
+  padding-right: 15px;
+  padding-top: 2px;
+  border-radius: 20px;
+  margin-left: 10px;
+}
 .topo{
-height: 156px;
+  height: 156px;
   background-image: url(../Imagens/bg-header-desktop.svg);
-background-color: hsl(180, 29%, 50%);
+  background-color: hsl(180, 29%, 50%);
 }
 .corpo{
   background-color: hsl(180, 52%, 96%);
-padding: 5px;
+  padding: 5px;
 }
 .container{
-height: 100%;
-width: 100%;
-margin-top: 5%;
-
+  height: 100%;
+  width: 100%;
+  margin-top: 5%;
 }
 .aba{
-width: 80%;
-height: 150px;
+  width: 80%;
+  height: 150px;
   background: rgba(255,255,255,1.00);
-margin-top: 2%;
-box-shadow: 5px 5px 10px 0.5px rgb(123,142,142,0.25);
-border-radius: 6px;
+  margin-top: 2%;
+  box-shadow: 5px 5px 10px 0.5px rgb(123,142,142,0.25);
+  border-radius: 6px;
 }
 .aba img{
-padding: 30px 30px 30px;
+  padding: 30px 40px 30px;
 }
 .borda{
-border-left: 5px solid #5BA4A4;
+  border-left: 5px solid #5BA4A4;
 }
 section{
-margin:-125px 140px;
-width: 100px;
-height: 50px;
-position: relative;
-
+  display: flex;
+  margin:-120px 150px;
+  width: 60px;
+  height: 20px;
+  position: relative;
 }
